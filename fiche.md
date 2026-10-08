@@ -107,3 +107,6 @@ site
 alors si on veut un site il faut ecrire son adresse puis l’hébergement va
 afficher le site
 de plus , il faut garder les deux pour rester capable d’acceder
+## Conclusion
+
+Le Web permet aux clients d'accéder à des sites grâce à Internet, aux navigateurs et aux serveurs. Pour qu'un site fonctionne correctement, il faut aussi un nom de domaine et un hébergement.
