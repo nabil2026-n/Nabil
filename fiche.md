@@ -1,5 +1,7 @@
 
-
+Destinataire : Madame Roussel
+Date : 08/10/2026
+Auteur : Nabil Ahorani
 # Définition des 15 termes du Web
 
 ## Internet
