@@ -82,3 +82,30 @@ serveur
 
 c'est qui permet contact avec deux logiciales et d'échanger des
 informations.
+
+1.Pourquoi la page Livraison
+affiche-t-elle une erreur 404,
+et comment la faire revenir ?
+la page affiche une erreur 404 peut être car la cliente n’a pas ecrit la
+bonne URLou la page n’est plus disponible , ça veut dire que la page a
+été supprimée ou son adresse été changé
+Alors il faut vérifier sur le sit si le page existe ou pas ou vérifier si
+l’adresse a changé pour metre la nouvelle adresse
+2.Que signifie « Non sécurisé »
+sur le blog, et est-ce un risque
+pour ses clients ?
+non sécurisé , ça signifie que le site n’est pas protégé et c’est parce
+que ça n’utilise pas le TLS qui sécurise les sites et c’est la différence
+entre le (http) et (https)
+par contre si l’URL du site comport à le protocole http les clients bien
+sûr exposent des risques
+3.Quelle est la différence entre
+le nom de domaine et
+l’hébergement, et doit-elle
+garder les deux ?
+le nom de domaine est le nom du site ou l’adresse qu’il faut ecrire
+pour trouver le site mais l’hébergement est une place pour stocker le
+site
+alors si on veut un site il faut ecrire son adresse puis l’hébergement va
+afficher le site
+de plus , il faut garder les deux pour rester capable d’acceder
