@@ -88,11 +88,7 @@ informations.
 1.Pourquoi la page Livraison
 affiche-t-elle une erreur 404,
 et comment la faire revenir ?
-la page affiche une erreur 404 peut être car la cliente n’a pas ecrit la
-bonne URLou la page n’est plus disponible , ça veut dire que la page a
-été supprimée ou son adresse été changé
-Alors il faut vérifier sur le sit si le page existe ou pas ou vérifier si
-l’adresse a changé pour metre la nouvelle adresse
+Cette erreur peut apparaître si la page a été supprimée ou si son adresse a changé. Il faut vérifier que la page existe encore et vérifier son adresse. Si elle a changé, il faut utiliser la nouvelle adresse.
 2.Que signifie « Non sécurisé »
 sur le blog, et est-ce un risque
 pour ses clients ?
